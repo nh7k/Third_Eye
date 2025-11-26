@@ -1,0 +1,1736 @@
+======================================================================
+HARASSMENT DETECTION SYSTEM - ANALYSIS REPORT
+======================================================================
+
+Generated: 2025-11-26 13:11:50
+Video: test_video.mp4
+Frames: 1458, FPS: 25
+Duration: 58.32s
+
+----------------------------------------------------------------------
+DETECTION SUMMARY
+----------------------------------------------------------------------
+Females: 1082
+Males: 1381
+Unknown: 0
+
+----------------------------------------------------------------------
+RISK EVENTS
+----------------------------------------------------------------------
+🚨 Harassment: 211
+🆘 SOS Gestures: 9
+⚠️  Surrounded: 0
+⚠️  Count Risk: 36
+
+Total Events: 256
+
+⚠️  CRITICAL: 211 HARASSMENT DETECTED!
+Check: outputt/dangerous_harassment
+
+----------------------------------------------------------------------
+EVENT LOG
+----------------------------------------------------------------------
+
+Event #1:
+  Type: HARASSMENT_DETECTED
+  Frame: 128 (5.12s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_24f2ba2cb5694c7c8d7b9f055532d964.jpg
+
+Event #2:
+  Type: HARASSMENT_DETECTED
+  Frame: 130 (5.20s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_f1f04eb191244db2b54af81810385d2b.jpg
+
+Event #3:
+  Type: HARASSMENT_DETECTED
+  Frame: 132 (5.28s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_1e586b905d84443c846d638a044cb566.jpg
+
+Event #4:
+  Type: HARASSMENT_DETECTED
+  Frame: 134 (5.36s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_af0fe5b23c6448d6b2af3015b1cec258.jpg
+
+Event #5:
+  Type: HARASSMENT_DETECTED
+  Frame: 136 (5.44s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_868134d060d249a99c672d6934dc46a1.jpg
+
+Event #6:
+  Type: HARASSMENT_DETECTED
+  Frame: 138 (5.52s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_27f43aeebd464ee98742010b4422a8fc.jpg
+
+Event #7:
+  Type: HARASSMENT_DETECTED
+  Frame: 204 (8.16s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_163145c762a74f8e84c536010982379b.jpg
+
+Event #8:
+  Type: HARASSMENT_DETECTED
+  Frame: 207 (8.28s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_692756d569c84fcb9d0466f130257fa5.jpg
+
+Event #9:
+  Type: HARASSMENT_DETECTED
+  Frame: 209 (8.36s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_7774fc9bb4ee4ebe967265a3d2e91206.jpg
+
+Event #10:
+  Type: HARASSMENT_DETECTED
+  Frame: 216 (8.64s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_1b5fb6d4cc3340a496d0652289877194.jpg
+
+Event #11:
+  Type: HARASSMENT_DETECTED
+  Frame: 216 (8.64s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_1457106658c84ccfb9209ff160c7f177.jpg
+
+Event #12:
+  Type: HARASSMENT_DETECTED
+  Frame: 218 (8.72s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_1501e304303a4ec2b337fc88d594638c.jpg
+
+Event #13:
+  Type: HARASSMENT_DETECTED
+  Frame: 218 (8.72s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_5263ee414dbc46728531d8075b8a7ab7.jpg
+
+Event #14:
+  Type: HARASSMENT_DETECTED
+  Frame: 220 (8.80s)
+  Score: 65%
+  Description: Harassment: being followed, close physical contact
+  Screenshot: outputt/risky_frames/harassment_b532f06ca2254b50a9fc3651668fa6e0.jpg
+
+Event #15:
+  Type: HARASSMENT_DETECTED
+  Frame: 220 (8.80s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_9ffc4115f167459e9ae5e8b82209f290.jpg
+
+Event #16:
+  Type: COUNT_RISK
+  Frame: 229 (9.16s)
+  Screenshot: outputt/risky_frames/count_d52fec2ad8234abc9490dcb67fff898b.jpg
+
+Event #17:
+  Type: HARASSMENT_DETECTED
+  Frame: 230 (9.20s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_1dc22e89255d4f37a1d0d16e6023ce7c.jpg
+
+Event #18:
+  Type: HARASSMENT_DETECTED
+  Frame: 232 (9.28s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_c20d68688a1544c8b2399f4558d70ecf.jpg
+
+Event #19:
+  Type: HARASSMENT_DETECTED
+  Frame: 234 (9.36s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_15b73cc3efec4d5ab8f26695e98a50de.jpg
+
+Event #20:
+  Type: HARASSMENT_DETECTED
+  Frame: 236 (9.44s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_ad5175154d9642f381515d99e100997a.jpg
+
+Event #21:
+  Type: HARASSMENT_DETECTED
+  Frame: 238 (9.52s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_350fe6d3052e48fc834bfced36644851.jpg
+
+Event #22:
+  Type: HARASSMENT_DETECTED
+  Frame: 240 (9.60s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_44c8cb114fc3434ca3503c75cf0c76df.jpg
+
+Event #23:
+  Type: HARASSMENT_DETECTED
+  Frame: 242 (9.68s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_aad67c1e20fb465bb441be66aa84be70.jpg
+
+Event #24:
+  Type: HARASSMENT_DETECTED
+  Frame: 244 (9.76s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_9cedc84a7b9b4238b41c39571193a821.jpg
+
+Event #25:
+  Type: HARASSMENT_DETECTED
+  Frame: 246 (9.84s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_c1bf2da2bcf64e4a9436d3de868b161e.jpg
+
+Event #26:
+  Type: HARASSMENT_DETECTED
+  Frame: 248 (9.92s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_8b5460a3fd214d2193ca020571155e6e.jpg
+
+Event #27:
+  Type: HARASSMENT_DETECTED
+  Frame: 250 (10.00s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_dc5355a8b5634c6384d8587016a80899.jpg
+
+Event #28:
+  Type: HARASSMENT_DETECTED
+  Frame: 252 (10.08s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_140fb0502a3d421583bb71f1547c9a2d.jpg
+
+Event #29:
+  Type: HARASSMENT_DETECTED
+  Frame: 254 (10.16s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_f1c38bb3ff0a4d7db257aefd160c0b47.jpg
+
+Event #30:
+  Type: HARASSMENT_DETECTED
+  Frame: 256 (10.24s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_94aacfc73ec04ae794a8ee4ffdc20689.jpg
+
+Event #31:
+  Type: HARASSMENT_DETECTED
+  Frame: 258 (10.32s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_48a7095b0b11487eb24bc461a29f4d9f.jpg
+
+Event #32:
+  Type: HARASSMENT_DETECTED
+  Frame: 260 (10.40s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_89eaf81161e545ccacc7dba9fbd7435d.jpg
+
+Event #33:
+  Type: HARASSMENT_DETECTED
+  Frame: 262 (10.48s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_11f86bb7fa1d4a6ab8825cbeb9338639.jpg
+
+Event #34:
+  Type: HARASSMENT_DETECTED
+  Frame: 285 (11.40s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_72c9d05c15104c17b3df34919fb1be75.jpg
+
+Event #35:
+  Type: HARASSMENT_DETECTED
+  Frame: 287 (11.48s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_4f82d4bdec2542b6b34815884319d487.jpg
+
+Event #36:
+  Type: HARASSMENT_DETECTED
+  Frame: 289 (11.56s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_b99442b5a3384245834ef37b1579c3b2.jpg
+
+Event #37:
+  Type: HARASSMENT_DETECTED
+  Frame: 295 (11.80s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_9b294b9f6a4c478b8c867985b0e8b616.jpg
+
+Event #38:
+  Type: HARASSMENT_DETECTED
+  Frame: 297 (11.88s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_c8e2c7cf89fd4a198f2c607f599a1138.jpg
+
+Event #39:
+  Type: HARASSMENT_DETECTED
+  Frame: 317 (12.68s)
+  Score: 100%
+  Description: Harassment: SOS gesture, defensive posture
+  Screenshot: outputt/risky_frames/harassment_b55f3f99c78e4d6089f2847aeeb13f5f.jpg
+
+Event #40:
+  Type: HARASSMENT_DETECTED
+  Frame: 317 (12.68s)
+  Score: 85%
+  Description: Harassment: SOS gesture, defensive posture
+  Screenshot: outputt/risky_frames/harassment_1e6329029b154a149855880a8b183f1a.jpg
+
+Event #41:
+  Type: HARASSMENT_DETECTED
+  Frame: 319 (12.76s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_cba16505a3af453682c0529f0b1738b3.jpg
+
+Event #42:
+  Type: HARASSMENT_DETECTED
+  Frame: 319 (12.76s)
+  Score: 85%
+  Description: Harassment: SOS gesture, defensive posture
+  Screenshot: outputt/risky_frames/harassment_58f15b1100f947e3b2fc3374fbcb445d.jpg
+
+Event #43:
+  Type: HARASSMENT_DETECTED
+  Frame: 321 (12.84s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_81b6edd17b8741a2bbec9ccc7afc5b6c.jpg
+
+Event #44:
+  Type: HARASSMENT_DETECTED
+  Frame: 321 (12.84s)
+  Score: 45%
+  Description: Harassment: defensive posture
+  Screenshot: outputt/risky_frames/harassment_8d13612628c248f1a9132b3f9192f808.jpg
+
+Event #45:
+  Type: HARASSMENT_DETECTED
+  Frame: 331 (13.24s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_4785a1f7396b4a94905618e0fce65ebb.jpg
+
+Event #46:
+  Type: HARASSMENT_DETECTED
+  Frame: 331 (13.24s)
+  Score: 15%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_dcd9afce122c47b298bb674ba91b79ab.jpg
+
+Event #47:
+  Type: HARASSMENT_DETECTED
+  Frame: 331 (13.24s)
+  Score: 100%
+  Description: Harassment: SOS gesture, defensive posture
+  Screenshot: outputt/risky_frames/harassment_fd4108fd84754527b8a6dab825f1d66e.jpg
+
+Event #48:
+  Type: HARASSMENT_DETECTED
+  Frame: 333 (13.32s)
+  Score: 40%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_dd533ce020bc4ae49863c0eda2162cfb.jpg
+
+Event #49:
+  Type: HARASSMENT_DETECTED
+  Frame: 333 (13.32s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_5b92cc7c22584974883373be457551ae.jpg
+
+Event #50:
+  Type: HARASSMENT_DETECTED
+  Frame: 335 (13.40s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_3f7d3931f9dc43ac8f7c19843d3815d4.jpg
+
+Event #51:
+  Type: COUNT_RISK
+  Frame: 335 (13.40s)
+  Screenshot: outputt/risky_frames/count_3a7258e126a34fe6ad39292e4490a17b.jpg
+
+Event #52:
+  Type: HARASSMENT_DETECTED
+  Frame: 336 (13.44s)
+  Score: 55%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_da1cdefb79e0400c9c93dc9e9d23a156.jpg
+
+Event #53:
+  Type: HARASSMENT_DETECTED
+  Frame: 337 (13.48s)
+  Score: 55%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_f544c763449a436a8979134e101823b1.jpg
+
+Event #54:
+  Type: HARASSMENT_DETECTED
+  Frame: 338 (13.52s)
+  Score: 55%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_817088648ad84d8ab8ba302c50707cb5.jpg
+
+Event #55:
+  Type: HARASSMENT_DETECTED
+  Frame: 339 (13.56s)
+  Score: 55%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_1bde4096df284309b117c81e9d429614.jpg
+
+Event #56:
+  Type: HARASSMENT_DETECTED
+  Frame: 340 (13.60s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_2f0ca0463b254d62a418733ec3d12ff5.jpg
+
+Event #57:
+  Type: COUNT_RISK
+  Frame: 341 (13.64s)
+  Screenshot: outputt/risky_frames/count_bb23b3d3d3184cb2bbcd1d040ed187d4.jpg
+
+Event #58:
+  Type: HARASSMENT_DETECTED
+  Frame: 342 (13.68s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_69cd07f4683c4c68b00fc9f4c3e4343d.jpg
+
+Event #59:
+  Type: HARASSMENT_DETECTED
+  Frame: 343 (13.72s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_830885b478164be18250db20136f8b5a.jpg
+
+Event #60:
+  Type: HARASSMENT_DETECTED
+  Frame: 344 (13.76s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_bbf0e29f5cc74b4da3c23d617698be2d.jpg
+
+Event #61:
+  Type: HARASSMENT_DETECTED
+  Frame: 345 (13.80s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_77121fbbcd6842f788619f2f6de5b560.jpg
+
+Event #62:
+  Type: HARASSMENT_DETECTED
+  Frame: 345 (13.80s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_ef02b66310df48b9a18f657e07012b2b.jpg
+
+Event #63:
+  Type: HARASSMENT_DETECTED
+  Frame: 345 (13.80s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_222d3aea30dc451184dd10fcc4608ff3.jpg
+
+Event #64:
+  Type: HARASSMENT_DETECTED
+  Frame: 347 (13.88s)
+  Score: 40%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_f93cb033399147768bb99fcc8837f3b4.jpg
+
+Event #65:
+  Type: HARASSMENT_DETECTED
+  Frame: 347 (13.88s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_138bae55fb554d74936104425f8e3f2f.jpg
+
+Event #66:
+  Type: HARASSMENT_DETECTED
+  Frame: 349 (13.96s)
+  Score: 40%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_f812c2ba0d864b2f9d655ffc62e86d6f.jpg
+
+Event #67:
+  Type: HARASSMENT_DETECTED
+  Frame: 349 (13.96s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_5fecaeeff19e4385af4c9729b6912081.jpg
+
+Event #68:
+  Type: HARASSMENT_DETECTED
+  Frame: 351 (14.04s)
+  Score: 40%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_76a7337d715a419a8b1fb8c3bf5361d6.jpg
+
+Event #69:
+  Type: HARASSMENT_DETECTED
+  Frame: 351 (14.04s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_ee14937951d149ad8b0488ab84184e49.jpg
+
+Event #70:
+  Type: HARASSMENT_DETECTED
+  Frame: 353 (14.12s)
+  Score: 40%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_2d2e8cb6d1a540fdbbb75298211abe88.jpg
+
+Event #71:
+  Type: HARASSMENT_DETECTED
+  Frame: 353 (14.12s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_96613ed8eca444fea99ec1a05a55f577.jpg
+
+Event #72:
+  Type: HARASSMENT_DETECTED
+  Frame: 355 (14.20s)
+  Score: 40%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_a8d50f96dde34588aa0c61aa4fc49395.jpg
+
+Event #73:
+  Type: HARASSMENT_DETECTED
+  Frame: 355 (14.20s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_35146e53726b4d82a15a41e22a41b980.jpg
+
+Event #74:
+  Type: COUNT_RISK
+  Frame: 356 (14.24s)
+  Screenshot: outputt/risky_frames/count_b72e0f4c00f64efeaee03f43dcdb3e47.jpg
+
+Event #75:
+  Type: HARASSMENT_DETECTED
+  Frame: 357 (14.28s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_1f0ad97055814852b05b24f31b8025f5.jpg
+
+Event #76:
+  Type: HARASSMENT_DETECTED
+  Frame: 359 (14.36s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_85f9f8ac581e443098f74aa250fb135f.jpg
+
+Event #77:
+  Type: HARASSMENT_DETECTED
+  Frame: 361 (14.44s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_6e77f0305ec04f31910ffdf768c5890d.jpg
+
+Event #78:
+  Type: HARASSMENT_DETECTED
+  Frame: 363 (14.52s)
+  Score: 55%
+  Description: Harassment: being followed
+  Screenshot: outputt/risky_frames/harassment_a70377daacf346c2b9553cac2736ea3b.jpg
+
+Event #79:
+  Type: HARASSMENT_DETECTED
+  Frame: 365 (14.60s)
+  Score: 55%
+  Description: Harassment: being followed
+  Screenshot: outputt/risky_frames/harassment_f64029970d554f8eae8a1d88a78df31d.jpg
+
+Event #80:
+  Type: HARASSMENT_DETECTED
+  Frame: 367 (14.68s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_08603b888419476daf833f8cf4e32fea.jpg
+
+Event #81:
+  Type: HARASSMENT_DETECTED
+  Frame: 369 (14.76s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_609f41cba1fc40309ca1c3841e0a9cd5.jpg
+
+Event #82:
+  Type: HARASSMENT_DETECTED
+  Frame: 442 (17.68s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_6488fea9a4234df79c49da6cde061b6c.jpg
+
+Event #83:
+  Type: HARASSMENT_DETECTED
+  Frame: 444 (17.76s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_b4e9a211c4874623be99aaa97cc1b104.jpg
+
+Event #84:
+  Type: HARASSMENT_DETECTED
+  Frame: 446 (17.84s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_fa8409e2667640f58f042623cf837e6e.jpg
+
+Event #85:
+  Type: HARASSMENT_DETECTED
+  Frame: 448 (17.92s)
+  Score: 55%
+  Description: Harassment: being followed
+  Screenshot: outputt/risky_frames/harassment_caecedf47a264c09964343c099f44ece.jpg
+
+Event #86:
+  Type: HARASSMENT_DETECTED
+  Frame: 450 (18.00s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_4b8b5af01b4644b9bffedd6f2edce0d5.jpg
+
+Event #87:
+  Type: HARASSMENT_DETECTED
+  Frame: 452 (18.08s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_58974f68271a4f009723f47d26fbdef0.jpg
+
+Event #88:
+  Type: HARASSMENT_DETECTED
+  Frame: 454 (18.16s)
+  Score: 75%
+  Description: Harassment: SOS gesture
+  Screenshot: outputt/risky_frames/harassment_0fa1595e76534b4ab66f40efad2a52d7.jpg
+
+Event #89:
+  Type: HARASSMENT_DETECTED
+  Frame: 456 (18.24s)
+  Score: 75%
+  Description: Harassment: SOS gesture
+  Screenshot: outputt/risky_frames/harassment_91b7d23618d6429f89e87b72357ac608.jpg
+
+Event #90:
+  Type: HARASSMENT_DETECTED
+  Frame: 458 (18.32s)
+  Score: 95%
+  Description: Harassment: SOS gesture, being followed
+  Screenshot: outputt/risky_frames/harassment_dbd1362e08fb4bd6b3d864178637a15c.jpg
+
+Event #91:
+  Type: HARASSMENT_DETECTED
+  Frame: 460 (18.40s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_22f0e03891344412a44047b451522978.jpg
+
+Event #92:
+  Type: HARASSMENT_DETECTED
+  Frame: 460 (18.40s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_8ac9457758ba432aaca27bd249ea7984.jpg
+
+Event #93:
+  Type: HARASSMENT_DETECTED
+  Frame: 462 (18.48s)
+  Score: 75%
+  Description: Harassment: SOS gesture
+  Screenshot: outputt/risky_frames/harassment_36f42f4fc9004cdcb12ef9082afeffd6.jpg
+
+Event #94:
+  Type: HARASSMENT_DETECTED
+  Frame: 462 (18.48s)
+  Score: 75%
+  Description: Harassment: SOS gesture
+  Screenshot: outputt/risky_frames/harassment_b449b727eb0c4359a28925ae7f4132e3.jpg
+
+Event #95:
+  Type: HARASSMENT_DETECTED
+  Frame: 464 (18.56s)
+  Score: 75%
+  Description: Harassment: SOS gesture
+  Screenshot: outputt/risky_frames/harassment_0fc014a3d9ec41b59ccce86c016001ee.jpg
+
+Event #96:
+  Type: HARASSMENT_DETECTED
+  Frame: 464 (18.56s)
+  Score: 35%
+  Description: High risk scene
+  Screenshot: outputt/risky_frames/harassment_15de113a1a934a71a8dd71d34fc906ab.jpg
+
+Event #97:
+  Type: HARASSMENT_DETECTED
+  Frame: 473 (18.92s)
+  Score: 70%
+  Description: Harassment: being followed, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_3952fb1a67da40328b707a58029fa903.jpg
+
+Event #98:
+  Type: COUNT_RISK
+  Frame: 473 (18.92s)
+  Screenshot: outputt/risky_frames/count_53e2001b982b4382b67b3e83f796789d.jpg
+
+Event #99:
+  Type: COUNT_RISK
+  Frame: 480 (19.20s)
+  Screenshot: outputt/risky_frames/count_376f95b0ad8140a385a8af3305cc26c2.jpg
+
+Event #100:
+  Type: HARASSMENT_DETECTED
+  Frame: 481 (19.24s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_794b36653c794b55b702bc49867a36b8.jpg
+
+Event #101:
+  Type: HARASSMENT_DETECTED
+  Frame: 483 (19.32s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_fdbf069e255c4ad3988b9bd7a062e01b.jpg
+
+Event #102:
+  Type: COUNT_RISK
+  Frame: 483 (19.32s)
+  Screenshot: outputt/risky_frames/count_ad953c92ff544a29b97e9dd35471400d.jpg
+
+Event #103:
+  Type: COUNT_RISK
+  Frame: 487 (19.48s)
+  Screenshot: outputt/risky_frames/count_c5e27f47bfb545568ac45da20ba39c13.jpg
+
+Event #104:
+  Type: HARASSMENT_DETECTED
+  Frame: 488 (19.52s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_7a22e8ab3aa4447f8d9593576a21e0ad.jpg
+
+Event #105:
+  Type: COUNT_RISK
+  Frame: 492 (19.68s)
+  Screenshot: outputt/risky_frames/count_0cfc75bb4beb4cda8c3e06397561d9f2.jpg
+
+Event #106:
+  Type: HARASSMENT_DETECTED
+  Frame: 493 (19.72s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_7269a741c8434ef69c3835764922d9eb.jpg
+
+Event #107:
+  Type: HARASSMENT_DETECTED
+  Frame: 495 (19.80s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_2261a78000d04360930fbc14b65c8891.jpg
+
+Event #108:
+  Type: COUNT_RISK
+  Frame: 496 (19.84s)
+  Screenshot: outputt/risky_frames/count_acff3ebbba0a43b1a7a91b757f5706f0.jpg
+
+Event #109:
+  Type: HARASSMENT_DETECTED
+  Frame: 497 (19.88s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_7b7edf14172a423e9e38330db5d5c3e2.jpg
+
+Event #110:
+  Type: HARASSMENT_DETECTED
+  Frame: 499 (19.96s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_4af03b171b5e47d2bb6979853d374654.jpg
+
+Event #111:
+  Type: COUNT_RISK
+  Frame: 500 (20.00s)
+  Screenshot: outputt/risky_frames/count_1682ab7285104dff9cfec4aaeeea3f9a.jpg
+
+Event #112:
+  Type: HARASSMENT_DETECTED
+  Frame: 501 (20.04s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_23a69697390946b29cf6643abcd4e128.jpg
+
+Event #113:
+  Type: HARASSMENT_DETECTED
+  Frame: 503 (20.12s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_21a4f63b4725462aa7453bdb08095b31.jpg
+
+Event #114:
+  Type: COUNT_RISK
+  Frame: 504 (20.16s)
+  Screenshot: outputt/risky_frames/count_dfd4ce3c3347426fb6f0b0bc1bb7e9f3.jpg
+
+Event #115:
+  Type: HARASSMENT_DETECTED
+  Frame: 505 (20.20s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_cd94485bf8054e359a1c7e0971d64268.jpg
+
+Event #116:
+  Type: HARASSMENT_DETECTED
+  Frame: 516 (20.64s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_fceb2c1568a1427f9299a04b160e9f90.jpg
+
+Event #117:
+  Type: COUNT_RISK
+  Frame: 516 (20.64s)
+  Screenshot: outputt/risky_frames/count_b6ccc09daff7400295a14e44421c490b.jpg
+
+Event #118:
+  Type: HARASSMENT_DETECTED
+  Frame: 518 (20.72s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_f383c60e2f134f27b4430a93859940ea.jpg
+
+Event #119:
+  Type: HARASSMENT_DETECTED
+  Frame: 520 (20.80s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_2d49311317774c82a9f36714c3eab514.jpg
+
+Event #120:
+  Type: COUNT_RISK
+  Frame: 521 (20.84s)
+  Screenshot: outputt/risky_frames/count_bc6abe56d1804dcea345c5d2dbc07d47.jpg
+
+Event #121:
+  Type: HARASSMENT_DETECTED
+  Frame: 522 (20.88s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_202c28d08e7a48b2b5e8bd93e0c20ad0.jpg
+
+Event #122:
+  Type: HARASSMENT_DETECTED
+  Frame: 524 (20.96s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_8b9a49a0ab2940cb8a02b21ee653ac08.jpg
+
+Event #123:
+  Type: HARASSMENT_DETECTED
+  Frame: 526 (21.04s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_898fc54208be4dd89185031e7514be4d.jpg
+
+Event #124:
+  Type: COUNT_RISK
+  Frame: 526 (21.04s)
+  Screenshot: outputt/risky_frames/count_48e44b5842c243019efd39bf8fd20854.jpg
+
+Event #125:
+  Type: HARASSMENT_DETECTED
+  Frame: 528 (21.12s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_9d2b4daa4df94a18b2fb78fd59475535.jpg
+
+Event #126:
+  Type: HARASSMENT_DETECTED
+  Frame: 530 (21.20s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_d574cf0cdb014c45a9fe1886940deffd.jpg
+
+Event #127:
+  Type: COUNT_RISK
+  Frame: 530 (21.20s)
+  Screenshot: outputt/risky_frames/count_69c57414877b40939a716c51daa61668.jpg
+
+Event #128:
+  Type: HARASSMENT_DETECTED
+  Frame: 532 (21.28s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_e0fca6b6c9fa48199916a61fcd752389.jpg
+
+Event #129:
+  Type: COUNT_RISK
+  Frame: 757 (30.28s)
+  Screenshot: outputt/risky_frames/count_6eb35b9ec5fd46d584ed5ab2fda2f36e.jpg
+
+Event #130:
+  Type: HARASSMENT_DETECTED
+  Frame: 758 (30.32s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_958f334d95e8487e837ae1c21d246152.jpg
+
+Event #131:
+  Type: HARASSMENT_DETECTED
+  Frame: 760 (30.40s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_38778d4e49ba48fea5870170170151f9.jpg
+
+Event #132:
+  Type: HARASSMENT_DETECTED
+  Frame: 761 (30.44s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_64db917bc72e41e3a5f48f7021c802fa.jpg
+
+Event #133:
+  Type: COUNT_RISK
+  Frame: 761 (30.44s)
+  Screenshot: outputt/risky_frames/count_8a9268582c38417189a2dd4b3a52552a.jpg
+
+Event #134:
+  Type: HARASSMENT_DETECTED
+  Frame: 763 (30.52s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_fc0de73001504bf19dbb6423502adaff.jpg
+
+Event #135:
+  Type: HARASSMENT_DETECTED
+  Frame: 763 (30.52s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_a35e91c5335740c78eb3d83615b6ac7e.jpg
+
+Event #136:
+  Type: COUNT_RISK
+  Frame: 764 (30.56s)
+  Screenshot: outputt/risky_frames/count_1ead34ae8e944577a14abb9834ed3d5b.jpg
+
+Event #137:
+  Type: HARASSMENT_DETECTED
+  Frame: 765 (30.60s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_18a651703b4e4558a0a1b02b5ebce5b2.jpg
+
+Event #138:
+  Type: HARASSMENT_DETECTED
+  Frame: 766 (30.64s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_39d47240560d48b49053acb73c61c5a1.jpg
+
+Event #139:
+  Type: HARASSMENT_DETECTED
+  Frame: 767 (30.68s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_6a105216992246689430f0c2b0122b9e.jpg
+
+Event #140:
+  Type: HARASSMENT_DETECTED
+  Frame: 768 (30.72s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_9cea3669c05647bfb6683814afc48fe0.jpg
+
+Event #141:
+  Type: HARASSMENT_DETECTED
+  Frame: 768 (30.72s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_2f9b65512e824bc7959ce37e698f36f9.jpg
+
+Event #142:
+  Type: HARASSMENT_DETECTED
+  Frame: 769 (30.76s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_11d405d7d8954aef81c7ad0a4faf1246.jpg
+
+Event #143:
+  Type: HARASSMENT_DETECTED
+  Frame: 770 (30.80s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_1948460183014806a0d3ab9a5248f05e.jpg
+
+Event #144:
+  Type: HARASSMENT_DETECTED
+  Frame: 770 (30.80s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_045f157be57648bc87c9985cb88e8cff.jpg
+
+Event #145:
+  Type: HARASSMENT_DETECTED
+  Frame: 771 (30.84s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_c1680ffe48bf4519857827bbdad8cd17.jpg
+
+Event #146:
+  Type: HARASSMENT_DETECTED
+  Frame: 775 (31.00s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_70bc15e5156444fbb56bd5aa3fdb6121.jpg
+
+Event #147:
+  Type: HARASSMENT_DETECTED
+  Frame: 775 (31.00s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_e1d0408dceee46dd8fee465ace4c8011.jpg
+
+Event #148:
+  Type: HARASSMENT_DETECTED
+  Frame: 775 (31.00s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_b4154b4bbfb740c985c756ce9a63c012.jpg
+
+Event #149:
+  Type: HARASSMENT_DETECTED
+  Frame: 775 (31.00s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_07c8dad56ee64ab0986a230a7149acff.jpg
+
+Event #150:
+  Type: HARASSMENT_DETECTED
+  Frame: 777 (31.08s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_897a36f442d74ba5b8ca2b8170cc7ba4.jpg
+
+Event #151:
+  Type: COUNT_RISK
+  Frame: 777 (31.08s)
+  Screenshot: outputt/risky_frames/count_cdd02dfab4084318a3917d7cee536fc1.jpg
+
+Event #152:
+  Type: HARASSMENT_DETECTED
+  Frame: 778 (31.12s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_fdbad9b246a6494d985bf6115c2167bf.jpg
+
+Event #153:
+  Type: HARASSMENT_DETECTED
+  Frame: 780 (31.20s)
+  Score: 70%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_62f2d85f77ec44ff817880354710a9a4.jpg
+
+Event #154:
+  Type: COUNT_RISK
+  Frame: 781 (31.24s)
+  Screenshot: outputt/risky_frames/count_fba0123ca1e0466e862123b1370fc06a.jpg
+
+Event #155:
+  Type: HARASSMENT_DETECTED
+  Frame: 785 (31.40s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 5 males
+  Screenshot: outputt/risky_frames/harassment_6d573570f0024acfae8aeb7b8da96439.jpg
+
+Event #156:
+  Type: COUNT_RISK
+  Frame: 785 (31.40s)
+  Screenshot: outputt/risky_frames/count_eb69e3ee0e7d4f33abe99d34810c8c8f.jpg
+
+Event #157:
+  Type: HARASSMENT_DETECTED
+  Frame: 787 (31.48s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_a2746e26a46e48db94daf4c78434df14.jpg
+
+Event #158:
+  Type: COUNT_RISK
+  Frame: 787 (31.48s)
+  Screenshot: outputt/risky_frames/count_f346f3d05e5947f69f42acd3f2531857.jpg
+
+Event #159:
+  Type: HARASSMENT_DETECTED
+  Frame: 789 (31.56s)
+  Score: 55%
+  Description: Harassment: close physical contact, surrounded by 4 males
+  Screenshot: outputt/risky_frames/harassment_a7034aa207834e0d9fafeeef6824b3d9.jpg
+
+Event #160:
+  Type: HARASSMENT_DETECTED
+  Frame: 796 (31.84s)
+  Score: 100%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_b4900839b7bb497590195ccb223af485.jpg
+
+Event #161:
+  Type: COUNT_RISK
+  Frame: 796 (31.84s)
+  Screenshot: outputt/risky_frames/count_c1f88e4413e44995b861852c07a396c5.jpg
+
+Event #162:
+  Type: HARASSMENT_DETECTED
+  Frame: 798 (31.92s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_e8fc2f26e97542b181685b8d1858b93f.jpg
+
+Event #163:
+  Type: HARASSMENT_DETECTED
+  Frame: 799 (31.96s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_3d8fef13622a44ddb9cb748388b2182f.jpg
+
+Event #164:
+  Type: HARASSMENT_DETECTED
+  Frame: 800 (32.00s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_b2490a7783254eb39cf1181e2844d4ce.jpg
+
+Event #165:
+  Type: HARASSMENT_DETECTED
+  Frame: 801 (32.04s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_e0eae9b9b3d049569ae5b5bdf634eda3.jpg
+
+Event #166:
+  Type: HARASSMENT_DETECTED
+  Frame: 801 (32.04s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_8a9a980d51664485b7c8601421de41cf.jpg
+
+Event #167:
+  Type: HARASSMENT_DETECTED
+  Frame: 804 (32.16s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_06280f2211e1444a844a7d8bc71a0f4c.jpg
+
+Event #168:
+  Type: HARASSMENT_DETECTED
+  Frame: 804 (32.16s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_23295c6071634260ad83cb1d76e7e205.jpg
+
+Event #169:
+  Type: HARASSMENT_DETECTED
+  Frame: 806 (32.24s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_0548e82eb7894682838a83d43626a068.jpg
+
+Event #170:
+  Type: HARASSMENT_DETECTED
+  Frame: 806 (32.24s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_9b639eab200c430aa35746955e86259e.jpg
+
+Event #171:
+  Type: HARASSMENT_DETECTED
+  Frame: 808 (32.32s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_12287bd57ce3438199f4a1d261fde619.jpg
+
+Event #172:
+  Type: COUNT_RISK
+  Frame: 808 (32.32s)
+  Screenshot: outputt/risky_frames/count_a0108daee365440d9f26e87c5d602822.jpg
+
+Event #173:
+  Type: HARASSMENT_DETECTED
+  Frame: 810 (32.40s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_a379a4b4d79a41ce9789248cd1a42df1.jpg
+
+Event #174:
+  Type: HARASSMENT_DETECTED
+  Frame: 812 (32.48s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_ed6eae41c6614dafbbd30df8be22eccb.jpg
+
+Event #175:
+  Type: COUNT_RISK
+  Frame: 813 (32.52s)
+  Screenshot: outputt/risky_frames/count_67ca5d900d48493fb96021881d0dd509.jpg
+
+Event #176:
+  Type: HARASSMENT_DETECTED
+  Frame: 814 (32.56s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_3a5d4300ee4649baaf37e827cfea6d44.jpg
+
+Event #177:
+  Type: HARASSMENT_DETECTED
+  Frame: 824 (32.96s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_431f18bfba6c4778b6d9adf8e00f6b2d.jpg
+
+Event #178:
+  Type: HARASSMENT_DETECTED
+  Frame: 827 (33.08s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_6356507be22d447e8b33e7735988cff6.jpg
+
+Event #179:
+  Type: HARASSMENT_DETECTED
+  Frame: 829 (33.16s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_a32505480c434bf9bd168fff8e23a216.jpg
+
+Event #180:
+  Type: HARASSMENT_DETECTED
+  Frame: 831 (33.24s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_a91c8d426f05421ba73d6bfd0f3e1dd4.jpg
+
+Event #181:
+  Type: HARASSMENT_DETECTED
+  Frame: 833 (33.32s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_7d3874598a544a6fac22351d1a985c23.jpg
+
+Event #182:
+  Type: HARASSMENT_DETECTED
+  Frame: 835 (33.40s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_69696b811e47411e92643a5d021ee999.jpg
+
+Event #183:
+  Type: HARASSMENT_DETECTED
+  Frame: 847 (33.88s)
+  Score: 75%
+  Description: Harassment: defensive posture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_d9903eb22d5949f4904edba9fdb9e79c.jpg
+
+Event #184:
+  Type: HARASSMENT_DETECTED
+  Frame: 849 (33.96s)
+  Score: 100%
+  Description: Harassment: SOS gesture, defensive posture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_88bca390ef8f4526b5b8e37b199a63b6.jpg
+
+Event #185:
+  Type: HARASSMENT_DETECTED
+  Frame: 866 (34.64s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_8be6e6e872f8477f88f0d38b6d00af3b.jpg
+
+Event #186:
+  Type: HARASSMENT_DETECTED
+  Frame: 874 (34.96s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_ebce7b7857f34cf1bb429af191061f16.jpg
+
+Event #187:
+  Type: HARASSMENT_DETECTED
+  Frame: 876 (35.04s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_fbde3804550f4203867982ff1efacc1c.jpg
+
+Event #188:
+  Type: HARASSMENT_DETECTED
+  Frame: 878 (35.12s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_4ada6445ec0f4c7194a64b47d077c4dd.jpg
+
+Event #189:
+  Type: HARASSMENT_DETECTED
+  Frame: 880 (35.20s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_db3f1861b2cf492cb05ef5e839254f88.jpg
+
+Event #190:
+  Type: SOS_GESTURE
+  Frame: 931 (37.24s)
+  Screenshot: outputt/risky_frames/sos_11c9cfdea8814ffaa48612dfd01e3021.jpg
+
+Event #191:
+  Type: SOS_GESTURE
+  Frame: 947 (37.88s)
+  Screenshot: outputt/risky_frames/sos_60df2a6f4a994bb8948d5eba5e9efa60.jpg
+
+Event #192:
+  Type: HARASSMENT_DETECTED
+  Frame: 966 (38.64s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_032c544dd8d5451c891174747d1fe7a8.jpg
+
+Event #193:
+  Type: HARASSMENT_DETECTED
+  Frame: 968 (38.72s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_9511b1d6076540559e6874586be667f5.jpg
+
+Event #194:
+  Type: HARASSMENT_DETECTED
+  Frame: 970 (38.80s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_1142ff4dfd384de6a1c04080bad2c5d1.jpg
+
+Event #195:
+  Type: HARASSMENT_DETECTED
+  Frame: 970 (38.80s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_f8bb9035d1ca4370bfb60a86a0394220.jpg
+
+Event #196:
+  Type: HARASSMENT_DETECTED
+  Frame: 972 (38.88s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_e525e5e7ff424df2977585ae70be7cde.jpg
+
+Event #197:
+  Type: HARASSMENT_DETECTED
+  Frame: 972 (38.88s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_957851ad7531440b87527f466692e800.jpg
+
+Event #198:
+  Type: HARASSMENT_DETECTED
+  Frame: 974 (38.96s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_13d466f9563844f19728a2258e2bade7.jpg
+
+Event #199:
+  Type: HARASSMENT_DETECTED
+  Frame: 974 (38.96s)
+  Score: 45%
+  Description: Harassment: defensive posture
+  Screenshot: outputt/risky_frames/harassment_0870307ea1c5433086c229072186e454.jpg
+
+Event #200:
+  Type: HARASSMENT_DETECTED
+  Frame: 978 (39.12s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_d4af038c01ff4ac6b2c58de8a8fa5c36.jpg
+
+Event #201:
+  Type: HARASSMENT_DETECTED
+  Frame: 978 (39.12s)
+  Score: 60%
+  Description: Harassment: SOS gesture, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_075cb077cfd2461c96a7637cec6c6cfc.jpg
+
+Event #202:
+  Type: HARASSMENT_DETECTED
+  Frame: 979 (39.16s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_6daa9cc229bd457ca64dcc39e34f7883.jpg
+
+Event #203:
+  Type: HARASSMENT_DETECTED
+  Frame: 980 (39.20s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_1d489ca191164ba699494f302e643183.jpg
+
+Event #204:
+  Type: HARASSMENT_DETECTED
+  Frame: 980 (39.20s)
+  Score: 55%
+  Description: Harassment: SOS gesture
+  Screenshot: outputt/risky_frames/harassment_8a2a620f368948f7a2272b694d49dcb5.jpg
+
+Event #205:
+  Type: HARASSMENT_DETECTED
+  Frame: 981 (39.24s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_b44c2618213f49149009579d8c683fe0.jpg
+
+Event #206:
+  Type: HARASSMENT_DETECTED
+  Frame: 982 (39.28s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_47b64cac4b594a71a65052c369b51d8b.jpg
+
+Event #207:
+  Type: HARASSMENT_DETECTED
+  Frame: 982 (39.28s)
+  Score: 20%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_f0f11257670947469d93da524021aee1.jpg
+
+Event #208:
+  Type: HARASSMENT_DETECTED
+  Frame: 984 (39.36s)
+  Score: 90%
+  Description: Harassment: SOS gesture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_795045a630754f3d85400238ffa449a7.jpg
+
+Event #209:
+  Type: HARASSMENT_DETECTED
+  Frame: 984 (39.36s)
+  Score: 60%
+  Description: Harassment: SOS gesture, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_29b61646ed5e442db0f428544f22c03e.jpg
+
+Event #210:
+  Type: HARASSMENT_DETECTED
+  Frame: 986 (39.44s)
+  Score: 100%
+  Description: Harassment: SOS gesture, defensive posture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_4ea9c19a811e4208b60d121bf2adbd81.jpg
+
+Event #211:
+  Type: HARASSMENT_DETECTED
+  Frame: 986 (39.44s)
+  Score: 60%
+  Description: Harassment: SOS gesture, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_54420284c0b24b5bbae706281bd18829.jpg
+
+Event #212:
+  Type: HARASSMENT_DETECTED
+  Frame: 988 (39.52s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_d567666d2f9a4e218024c954ef6dae3e.jpg
+
+Event #213:
+  Type: HARASSMENT_DETECTED
+  Frame: 988 (39.52s)
+  Score: 20%
+  Description: Harassment: surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_130784a609d348d1a562638da7f7ef15.jpg
+
+Event #214:
+  Type: COUNT_RISK
+  Frame: 989 (39.56s)
+  Screenshot: outputt/risky_frames/count_7bf0760fb1104c948443e358540e7a25.jpg
+
+Event #215:
+  Type: HARASSMENT_DETECTED
+  Frame: 990 (39.60s)
+  Score: 25%
+  Description: Harassment: surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_f6a788a14f25497fbb9b261071c07cdb.jpg
+
+Event #216:
+  Type: HARASSMENT_DETECTED
+  Frame: 992 (39.68s)
+  Score: 65%
+  Description: Harassment: SOS gesture, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_a531d9f23f784646961260e8acd64550.jpg
+
+Event #217:
+  Type: COUNT_RISK
+  Frame: 992 (39.68s)
+  Screenshot: outputt/risky_frames/count_9a49e610b03f4f74be3d3d1c985eca6d.jpg
+
+Event #218:
+  Type: HARASSMENT_DETECTED
+  Frame: 994 (39.76s)
+  Score: 25%
+  Description: Harassment: surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_1dcc2cf0112f4fea84829d75f863a70c.jpg
+
+Event #219:
+  Type: HARASSMENT_DETECTED
+  Frame: 997 (39.88s)
+  Score: 65%
+  Description: Harassment: SOS gesture, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_e6d8447f078d4f29b6fa17396e6c1c2a.jpg
+
+Event #220:
+  Type: COUNT_RISK
+  Frame: 997 (39.88s)
+  Screenshot: outputt/risky_frames/count_25109d5bd8cc4a5c952f6171597b5479.jpg
+
+Event #221:
+  Type: HARASSMENT_DETECTED
+  Frame: 999 (39.96s)
+  Score: 65%
+  Description: Harassment: SOS gesture, surrounded by 3 males
+  Screenshot: outputt/risky_frames/harassment_77a83180767d4944a2791a4c9f70d518.jpg
+
+Event #222:
+  Type: COUNT_RISK
+  Frame: 1020 (40.80s)
+  Screenshot: outputt/risky_frames/count_dfaca7c2bc4549cda13a5c34f5c75bfb.jpg
+
+Event #223:
+  Type: HARASSMENT_DETECTED
+  Frame: 1021 (40.84s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_199042797ece48e3a4b6b1c1c13760cf.jpg
+
+Event #224:
+  Type: HARASSMENT_DETECTED
+  Frame: 1047 (41.88s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_8f33ed685eb74543b7a629512299f478.jpg
+
+Event #225:
+  Type: HARASSMENT_DETECTED
+  Frame: 1058 (42.32s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_ca56d8ac1f0f4e7c82c4e54d43b73061.jpg
+
+Event #226:
+  Type: SOS_GESTURE
+  Frame: 1065 (42.60s)
+  Screenshot: outputt/risky_frames/sos_cf37379e6e6941e9934c772bd97d348e.jpg
+
+Event #227:
+  Type: SOS_GESTURE
+  Frame: 1067 (42.68s)
+  Screenshot: outputt/risky_frames/sos_47b8004672fe4cb5801af0777e8c8535.jpg
+
+Event #228:
+  Type: SOS_GESTURE
+  Frame: 1077 (43.08s)
+  Screenshot: outputt/risky_frames/sos_c410b5dbcd814c508f173c0397df75d5.jpg
+
+Event #229:
+  Type: HARASSMENT_DETECTED
+  Frame: 1082 (43.28s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_1b5cec53877f403db69ac6b256e609ef.jpg
+
+Event #230:
+  Type: SOS_GESTURE
+  Frame: 1187 (47.48s)
+  Screenshot: outputt/risky_frames/sos_5fdea2cde7814b4d8e3f498dfaf76622.jpg
+
+Event #231:
+  Type: SOS_GESTURE
+  Frame: 1199 (47.96s)
+  Screenshot: outputt/risky_frames/sos_5c76159c7504400b9d88295f340fef03.jpg
+
+Event #232:
+  Type: COUNT_RISK
+  Frame: 1229 (49.16s)
+  Screenshot: outputt/risky_frames/count_ee92e9f38add4a1e81e92f2dfca8b908.jpg
+
+Event #233:
+  Type: HARASSMENT_DETECTED
+  Frame: 1230 (49.20s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_3aa3d1aa96cb452999ee4d144e0d14a9.jpg
+
+Event #234:
+  Type: HARASSMENT_DETECTED
+  Frame: 1234 (49.36s)
+  Score: 100%
+  Description: Harassment: SOS gesture, defensive posture, close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_eeefe4dd72d44c359f737ce67ac5834f.jpg
+
+Event #235:
+  Type: COUNT_RISK
+  Frame: 1234 (49.36s)
+  Screenshot: outputt/risky_frames/count_de99aec2d1d841deb7c54ba7d783c9f4.jpg
+
+Event #236:
+  Type: HARASSMENT_DETECTED
+  Frame: 1237 (49.48s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_17ea69f1ca88410d97e51004bcc2a15b.jpg
+
+Event #237:
+  Type: HARASSMENT_DETECTED
+  Frame: 1237 (49.48s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_cab5bbbf327d426a9f273a428c018ab2.jpg
+
+Event #238:
+  Type: COUNT_RISK
+  Frame: 1238 (49.52s)
+  Screenshot: outputt/risky_frames/count_0503f60220e4495a9c5d8ac70ba00ef0.jpg
+
+Event #239:
+  Type: HARASSMENT_DETECTED
+  Frame: 1239 (49.56s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_44b796c3e2354c84871514b022dadb2a.jpg
+
+Event #240:
+  Type: HARASSMENT_DETECTED
+  Frame: 1241 (49.64s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_7828d4c014a84913b1e70e9cdfcc3433.jpg
+
+Event #241:
+  Type: HARASSMENT_DETECTED
+  Frame: 1241 (49.64s)
+  Score: 75%
+  Description: Harassment: defensive posture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_d48df082241c4f90b8c6d8dc0dba5dc8.jpg
+
+Event #242:
+  Type: HARASSMENT_DETECTED
+  Frame: 1243 (49.72s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_c1dc3bfc9c64483dafbcc740a5bcb729.jpg
+
+Event #243:
+  Type: HARASSMENT_DETECTED
+  Frame: 1243 (49.72s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_122a333b766044b9a026e4e9c9cc20eb.jpg
+
+Event #244:
+  Type: HARASSMENT_DETECTED
+  Frame: 1247 (49.88s)
+  Score: 100%
+  Description: Harassment: SOS gesture, defensive posture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_8194f6f8e48f47debe8d68bb89279603.jpg
+
+Event #245:
+  Type: HARASSMENT_DETECTED
+  Frame: 1247 (49.88s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_7d9c097f54854628adf3e42984d7eb16.jpg
+
+Event #246:
+  Type: SOS_GESTURE
+  Frame: 1314 (52.56s)
+  Screenshot: outputt/risky_frames/sos_f965bec2dd7e48e8925cda35b038027f.jpg
+
+Event #247:
+  Type: HARASSMENT_DETECTED
+  Frame: 1316 (52.64s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_3783aab11b164e6db2dfc6afcd75644b.jpg
+
+Event #248:
+  Type: HARASSMENT_DETECTED
+  Frame: 1318 (52.72s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_d7e298e2d01c4cf98c63ce6d31d118fc.jpg
+
+Event #249:
+  Type: COUNT_RISK
+  Frame: 1407 (56.28s)
+  Screenshot: outputt/risky_frames/count_b167488ece8c4ca5a5a6516d3a403a45.jpg
+
+Event #250:
+  Type: COUNT_RISK
+  Frame: 1415 (56.60s)
+  Screenshot: outputt/risky_frames/count_e981398f47944a3a842cbc393495c22e.jpg
+
+Event #251:
+  Type: HARASSMENT_DETECTED
+  Frame: 1416 (56.64s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_9c37e85b16624805bfdcdbe2a156d6e2.jpg
+
+Event #252:
+  Type: HARASSMENT_DETECTED
+  Frame: 1418 (56.72s)
+  Score: 50%
+  Description: Harassment: close physical contact, surrounded by 2 males
+  Screenshot: outputt/risky_frames/harassment_b603a5186fb74663a7721142af9d25e7.jpg
+
+Event #253:
+  Type: COUNT_RISK
+  Frame: 1419 (56.76s)
+  Screenshot: outputt/risky_frames/count_4756dc9c9044483582ae72055e3ed61e.jpg
+
+Event #254:
+  Type: HARASSMENT_DETECTED
+  Frame: 1420 (56.80s)
+  Score: 45%
+  Description: Harassment: close physical contact
+  Screenshot: outputt/risky_frames/harassment_43f55f01e09249789a21173249555ecb.jpg
+
+Event #255:
+  Type: HARASSMENT_DETECTED
+  Frame: 1421 (56.84s)
+  Score: 85%
+  Description: Harassment: SOS gesture, close physical contact
+  Screenshot: outputt/risky_frames/harassment_6b4f1634d05f45dd9bef6ada3de0dbbe.jpg
+
+Event #256:
+  Type: SOS_GESTURE
+  Frame: 1435 (57.40s)
+  Screenshot: outputt/risky_frames/sos_29b02b54335e4ef89a45c836faf1a683.jpg
+
+======================================================================
