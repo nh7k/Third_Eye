@@ -118,5 +118,4 @@ Police + Victim + Dashboard Interface
 
 ## 🤝 Let’s Make India Safer Together 🇮🇳
 
-If you like this idea, ⭐ star this repo and share it!  
-For collaboration or pilot: 📧 your-email@gmail.com
+
